@@ -1,0 +1,10 @@
+{
+	"name": "chatrooms",
+    "version": "0.0.1",
+    "main":  "app.js",
+    "author": "Wu Jiang <me@wujiang.name>",
+	"description": "mutiroom chat server with express.io",
+	"dependencies": {
+		"express.io": "*"
+	}
+}

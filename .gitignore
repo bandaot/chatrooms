@@ -26,3 +26,9 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+.ntvs_analysis.dat
+bin/Microsoft.NodejsTools.WebRole.dll
+obj/Debug/chatrooms.njsproj.FileListAbsolute.txt
+obj/Debug/chatrooms.njsprojResolveAssemblyReference.cache
+obj/Release/chatrooms.njsproj.FileListAbsolute.txt
+obj/Release/chatrooms.njsprojResolveAssemblyReference.cache

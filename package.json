@@ -1,10 +1,13 @@
 {
 	"name": "chatrooms",
-    "version": "0.0.1",
-    "main":  "app.js",
-    "author": "Wu Jiang <me@wujiang.name>",
+	"version": "0.0.1",
+	"main":  "app.js",
+	"author": "Wu Jiang <me@wujiang.name>",
 	"description": "mutiroom chat server with express.io",
+	"repository": "https://github.com/bandaot/chatrooms",
 	"dependencies": {
-		"express.io": "*"
+		"express.io": "*",
+		"ejs": "~0.8.5",
+		"stylus": "*"
 	}
 }

@@ -17,10 +17,13 @@
   <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
   <ItemGroup>
     <Content Include="package.json" />
+    <Content Include="views\index.html" />
     <None Include="public\javascripts\jquery-1.11.0-vsdoc.js" />
     <Compile Include="app.js" />
     <Compile Include="public\javascripts\jquery-1.11.0.js" />
     <Compile Include="public\javascripts\jquery-1.11.0.min.js" />
+    <Compile Include="routes\index.js" />
+    <Compile Include="routes\user.js" />
     <Compile Include="server.js" />
     <Compile Include="lib\chat_server.js" />
     <Content Include="nbproject\project.xml" />
